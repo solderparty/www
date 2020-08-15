@@ -1,0 +1,31 @@
+{{ $products := (index .Site.Data (.Get "data")).products }}
+
+<div class="container" style="width: 80%">
+{{ range $idx, $elem := sort $products "name" }}
+{{ $n_elem := (len $products) }}
+{{ $is_last := (eq $idx (sub $n_elem 1)) }}
+{{ $is_idx_0 := (eq (mod $idx 3) 0) }}
+{{ $is_idx_2 := (eq (mod $idx 3) 2) }}
+
+{{ if $is_idx_0 }}
+<div class="row">
+{{ end }}
+
+<div class="col-sm m-1 border product-cell">
+<a href="{{ $elem.url | relURL }}">
+<div class="row"><div class="col-sm text-center"><img src="{{ $elem.url | relURL }}/{{ $elem.image }}"></div></div>
+<div class="row"><div class="col-sm text-center">{{ $elem.name }}</div></div>
+</a>
+</div>
+{{ if (and $is_last (gt (mod $n_elem 3) 0)) }}
+{{ range seq (sub 3 (mod $n_elem 3)) }}
+<div class="col-sm m-1 product-cell border" style="border-color: white !important;"></div>
+{{ end }}
+{{ end }}
+
+{{ if (or $is_idx_2 $is_last) }}
+</div>
+{{ end }}
+
+{{ end }}
+</div>

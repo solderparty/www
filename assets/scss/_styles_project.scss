@@ -1,0 +1,17 @@
+
+.product-cell {
+    padding: 2%;
+
+    &:hover {
+        border-color: $primary !important;
+    }
+}
+
+
+.td-navbar {
+    .navbar-brand {
+        svg {
+            vertical-align: bottom !important;
+        }
+    }
+}

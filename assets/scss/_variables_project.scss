@@ -1,0 +1,40 @@
+$primary: #6124C2;
+$secondary: #479DE7;
+$info: darken(#944bbb, 15%);
+
+$link-color: lighten($primary, 15%);
+$link-hover-color: lighten($link-color, 15%);
+
+.td-sidebar-nav {
+    a {
+        &:hover {
+            color: $link-color !important;
+        }
+    }
+}
+
+.td-toc {
+    #TableOfContents {
+        a {
+            &:hover {
+                color: $link-color !important;
+            }
+        }
+    }
+}
+
+.td-box--secondary p > a{
+    color: darken($secondary, 25%) !important;
+}
+
+.td-blog {
+    .td-rss-button:hover {
+        background-color: darken(#BA5A31, 10%) !important;
+        color: white !important;
+    }
+}
+
+.btn-primary.disabled {
+    color: darken($primary, 20%) !important;
+}
+

@@ -1,0 +1,24 @@
+[[products]]
+name = "Serpente R1"
+image = "both_boards_small.jpg"
+url = "/docs/serpente/r1"
+
+[[products]]
+name = "Serpente R2"
+image = "three_boards_small.jpg"
+url = "/docs/serpente/r2"
+
+[[products]]
+name = "OLED PMOD"
+image = "oled-pmod.jpg"
+url = "/docs/oled-pmod"
+
+[[products]]
+name = "Keyboard PMOD"
+image = "keyboard-pmod.jpg"
+url = "/docs/keyboard-pmod"
+
+[[products]]
+name = "Keyboard FeatherWing"
+image = "featherwing.jpg"
+url = "/docs/keyboard-featherwing"
