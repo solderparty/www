@@ -71,7 +71,7 @@ archived_version = false
 #url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/solder_party/docs"
+github_repo = "https://github.com/solderparty/www"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 #github_project_repo = "https://github.com/google/docsy"
 
