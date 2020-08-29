@@ -185,4 +185,9 @@ void setup()
     pixels.setPixelColor(0, pixels.Color(255, 0, 255));
     pixels.show();
 }
+
+void loop()
+{
+    delay(1000);
+}
 {{< / highlight >}}
