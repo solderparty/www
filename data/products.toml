@@ -1,11 +1,11 @@
 [[products]]
 name = "Serpente R1"
-image = "both_boards_small.jpg"
+image = "both_boards.jpg"
 url = "/docs/serpente/r1"
 
 [[products]]
 name = "Serpente R2"
-image = "three_boards_small.jpg"
+image = "three_boards.jpg"
 url = "/docs/serpente/r2"
 
 [[products]]
@@ -22,3 +22,8 @@ url = "/docs/keyboard-pmod"
 name = "Keyboard FeatherWing"
 image = "featherwing.jpg"
 url = "/docs/keyboard-featherwing"
+
+[[products]]
+name = "PMOD to Qwiic Adapter"
+image = "../pmod-to-qwiic.jpg"
+url = "/docs/keyboard-pmod/pmod-to-qwiic-adapter"

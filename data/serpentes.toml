@@ -1,10 +1,10 @@
 [[products]]
 name = "Serpente R1"
-image = "both_boards_small.jpg"
+image = "both_boards.jpg"
 url = "/docs/serpente/r1"
 
 [[products]]
 name = "Serpente R2"
-image = "three_boards_small.jpg"
+image = "three_boards.jpg"
 url = "/docs/serpente/r2"
 
