@@ -27,3 +27,14 @@ url = "/docs/keyboard-featherwing"
 name = "PMOD to Qwiic Adapter"
 image = "../pmod-to-qwiic.jpg"
 url = "/docs/keyboard-pmod/pmod-to-qwiic-adapter"
+
+[[products]]
+name = "USB Type-C Plug Breakout - USB 2.0"
+image = "perspective.jpg"
+url = "/docs/usb-c-breakout/2"
+
+[[products]]
+name = "USB Type-C Plug Breakout - USB 3.0"
+image = "perspective.jpg"
+url = "/docs/usb-c-breakout/3"
+
