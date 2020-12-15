@@ -4,7 +4,7 @@ weight: 4
 no_list: true
 ---
 
-## Choose
+## Choose the variant
 
 
 {{% product_grid data=usb-c-breakouts %}}
