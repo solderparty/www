@@ -38,3 +38,8 @@ name = "USB Type-C Plug Breakout - USB 3.0"
 image = "perspective.jpg"
 url = "/docs/usb-c-breakout/3"
 
+[[products]]
+name = "USB Type-C Plug SMT Pack"
+image = "plugs.jpg"
+url = "/docs/usb-c-pack/"
+
