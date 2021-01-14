@@ -7,7 +7,7 @@ The Keyboard FeatherWing is an easy way to add a handheld Qwerty keyboard and a 
 
 The FeatherWing itself does not contain an MCU/CPU/SoC that you can program; you will need a board compatible with the [Adafruit Feather System](https://learn.adafruit.com/adafruit-feather/feather-specification).
 
-Some notable Feathers include the [Giant Board](https://www.crowdsupply.com/groboards/giant-board) (Linux!), the [Orange Crab](https://groupgets.com/manufacturers/good-stuff-department/products/orangecrab) (FPGA!), the [Huzzah32](https://www.adafruit.com/product/3619) (WiFi!), the [Feather nRF5240 Express](https://www.adafruit.com/product/4062) (BLE!), the [Feather M0 with RFM95](https://www.adafruit.com/product/3178) (LoRa!), and [many others](https://www.adafruit.com/feather).
+Some notable Feathers include the [Giant Board](https://www.crowdsupply.com/groboards/giant-board) (Linux!), the [Orange Crab](https://groupgets.com/manufacturers/good-stuff-department/products/orangecrab) (FPGA!), the [Huzzah32](https://www.adafruit.com/product/3619) (WiFi!), the [Feather nRF5240 Express](https://www.adafruit.com/product/4062) (BLE!), and [many others](https://www.adafruit.com/feather).
 
 ## Technical details
 
