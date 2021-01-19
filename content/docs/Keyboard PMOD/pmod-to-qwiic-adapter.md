@@ -27,7 +27,7 @@ The easiest way to mount it is to use the extra-long headers supplied with the A
 
 ## Hardware Files
 
-The KiCad hardware source files for the board can be found on [Github](https://github.com/solderparty/pmod_to_qwiic_adapterGithub).
+The KiCad hardware source files for the board can be found on [Github](https://github.com/solderparty/pmod_to_qwiic_adapter).
 
 ## Schematics
 
