@@ -25,6 +25,10 @@ The easiest way to mount it is to use the extra-long headers supplied with the A
 
 </div>
 
+## Hardware Files
+
+The KiCad hardware source files for the board can be found on [Github](https://github.com/solderparty/pmod_to_qwiic_adapterGithub).
+
 ## Schematics
 
 <div class="container">
