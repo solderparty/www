@@ -43,3 +43,7 @@ name = "USB Type-C Plug SMT Pack"
 image = "plugs.jpg"
 url = "/docs/usb-c-pack/"
 
+[[products]]
+name = "CP2102 USB to Serial/UART"
+image = "perspective.jpg"
+url = "/docs/usb-c-cp2102"
