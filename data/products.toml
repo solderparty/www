@@ -47,3 +47,8 @@ url = "/docs/usb-c-pack/"
 name = "CP2102 USB to Serial/UART"
 image = "perspective.jpg"
 url = "/docs/usb-c-cp2102"
+
+[[products]]
+name = "LiPo Battery Charger"
+image = "perspective.jpg"
+url = "/docs/usb-c-lipo"

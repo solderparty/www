@@ -1,5 +1,5 @@
 ---
-title: "CP2102 USB to Serial/UART with USB Type-C Plug"
+title: "CP2102 USB to Serial w/ USB-C Plug"
 weight: 1
 ---
 
