@@ -4,7 +4,7 @@ weight: 4
 ---
 
 ## Datasheets
-- [CP2102N](https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf)
+- [CP2102](https://www.silabs.com/documents/public/data-sheets/CP2102-9.pdf)
 
 ## Hardware Files
 The KiCad hardware source files for the board can be found on [Github](https://github.com/solderparty/type-c_plug_cp2102).
