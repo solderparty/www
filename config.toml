@@ -42,7 +42,7 @@ id = "UA-167782746-1"
 
 [[menu.main]]
     name = "Tindie"
-    weight = 99
+    weight = 90
     url = "https://www.tindie.com/stores/arturo182/"
 
 [params]
