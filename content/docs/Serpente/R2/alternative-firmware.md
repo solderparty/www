@@ -11,4 +11,4 @@ Please note that these are not officially supported and your mileage may vary.
 - [RIOT OS](https://doc.riot-os.org/group__boards__serpente.html)
 - [Rust](https://crates.io/crates/serpente)
 - [uLisp](https://github.com/technoblogy/ulisp-serpente)
-- [Zephyr](https://github.com/elexx/zephyr/tree/board/serpente)
+- [Zephyr](https://docs.zephyrproject.org/latest/boards/arm/serpente/doc/index.html)
