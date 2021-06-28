@@ -7,7 +7,7 @@ This diagram shows the Feather pins used by various peripherals on the FeatherWi
 
 <div class="container">
 
-[![Block Diagram](/docs/keyboard-featherwing/diagram_small.png)](/docs/keyboard-featherwing/diagram.png)
+[![Block Diagram](/docs/keyboard-featherwing/rev2/diagram_small.png)](/docs/keyboard-featherwing/rev2/diagram.png)
 
 </div>
 

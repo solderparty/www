@@ -5,13 +5,13 @@ weight: 3
 
 Of course, we don't just leave you with the board and a "good luck"; here are some code examples to get you started with your FeatherWing.
 
-Make sure to visit the [example code repo](https://github.com/arturo182/keyboard_featherwing_sw) on Github for more example code.
+Make sure to visit the [example code repo](https://github.com/solderparty/keyboard_featherwing_sw) on Github for more example code.
 
 These examples have been tested with the [Adafruit Feather M4 Express](https://www.adafruit.com/product/3857), depending on which Feather you're using, some modifications might be needed.
 
 ## CircuitPython
 
-Tested with CircuitPython 5.0. Additional libraries are needed, see [README.md](https://github.com/arturo182/keyboard_featherwing_sw/blob/master/circuitpython/README.md) for details.
+Tested with CircuitPython 5.0. Additional libraries are needed, see [README.md](https://github.com/solderparty/keyboard_featherwing_sw/blob/master/circuitpython/README.md) for details.
 
 ### Initializing the LCD
 

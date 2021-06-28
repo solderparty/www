@@ -19,9 +19,14 @@ image = "keyboard-pmod.jpg"
 url = "/docs/keyboard-pmod"
 
 [[products]]
-name = "Keyboard FeatherWing"
+name = "Keyboard FeatherWing Rev 1"
 image = "featherwing.jpg"
-url = "/docs/keyboard-featherwing"
+url = "/docs/keyboard-featherwing/rev1"
+
+[[products]]
+name = "Keyboard FeatherWing Rev 2"
+image = "featherwing.jpg"
+url = "/docs/keyboard-featherwing/rev2"
 
 [[products]]
 name = "PMOD to Qwiic Adapter"

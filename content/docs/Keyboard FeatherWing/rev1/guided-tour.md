@@ -7,7 +7,7 @@ Let's have a quick look at the FeatherWing and what's on it.
 
 <div class="container">
 
-[![Guiuded Tour](/docs/keyboard-featherwing/tour_small.png)](/docs/keyboard-featherwing/tour.png)
+[![Guiuded Tour](/docs/keyboard-featherwing/rev1/tour_small.png)](/docs/keyboard-featherwing/rev1/tour.png)
 
 </div>
 
