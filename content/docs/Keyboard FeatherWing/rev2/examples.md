@@ -140,28 +140,33 @@ void setup()
 ### Using the Touch Screen
 
 {{< highlight cpp >}}
-#include <Adafruit_STMPE610.h>
+#include <TSC2004.h>
 
-#define STMPE_CS 6
+TSC2004 ts;
 
-#define TS_MINX 150
-#define TS_MINY 130
-#define TS_MAXX 3800
-#define TS_MAXY 4000
+void setup() {
+  Serial.begin(9600);
 
-Adafruit_STMPE610 ts(STMPE_CS);
-
-void setup()
-{
   ts.begin();
-  while (ts.bufferEmpty()) {
-    ;
+}
+
+void loop() {
+  if (!ts.touched()) {
+    return;
   }
 
-  TS_Point p = ts.getPoint();
-  p.x = map(p.x, TS_MINY, TS_MAXY, tft.height(), 0);
-  p.y = map(p.y, TS_MINX, TS_MAXX, 0, tft.width());
+  const TS_Point p = ts.getPoint();
+
+  Serial.print("(");
+  Serial.print(p.x);
+  Serial.print(", ");
+  Serial.print(p.y);
+  Serial.print(", ");
+  Serial.print(p.z);
+  Serial.println(")");
 }
+
+
 {{< / highlight >}}
 
 ### Using the Keyboard
