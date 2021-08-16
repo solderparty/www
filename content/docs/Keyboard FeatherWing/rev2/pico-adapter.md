@@ -5,7 +5,13 @@ weight: 4
 
 This adapter was designed specifically to allow driving the Keyboard FeatherWing with a Raspberry Pi Pico board.
 
-**Note: Because the Pico only has 3 analog pins, only A0, A1, and A5 of the Keyboard FeatherWing can actually be used to read analog values.**
+{{% alert title="Note" %}}
+Because the Pico only has 3 analog pins, only A0, A1, and A5 of the Keyboard FeatherWing can actually be used to read analog values.
+{{% /alert %}}
+
+{{% alert title="Warning" color="warning" %}}
+This revision of the adapter has a small HW bug where the two BAT header pins are not connected together. The pins are not used by the Pico, so they don't affect any functionality, however, if you want to use the BAT pin with the Keyboard FeatherWing plugged in, you have to short the two pins together with a piece of wire or a solder blob.
+{{% /alert %}}
 
 <div class="container">
 
