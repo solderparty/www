@@ -1,6 +1,6 @@
 ---
 title: "Keyboard FeatherWing"
-weight: 4
+weight: 2
 no_list: true
 ---
 

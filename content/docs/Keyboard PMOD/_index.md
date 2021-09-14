@@ -1,6 +1,6 @@
 ---
 title: "Keyboard PMOD"
-weight: 2
+weight: 3
 ---
 
 A BB Q10 Keyboard in PMOD format!

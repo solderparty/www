@@ -1,6 +1,6 @@
 ---
 title: "OLED PMOD"
-weight: 3
+weight: 5
 ---
 
 Perfect solution if you need a small display with vivid, high-contrast 16-bit color. PMOD connector can be used with FPGA and MCU dev boards

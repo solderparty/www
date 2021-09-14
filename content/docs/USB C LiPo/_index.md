@@ -1,6 +1,6 @@
 ---
 title: "LiPo Battery Charger w/ USB-C Plug"
-weight: 3
+weight: 4
 ---
 
 Charge your LiPo batteries directly from your USB Type-C port!

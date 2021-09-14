@@ -1,6 +1,6 @@
 ---
 title: "USB Type-C Plug Breakout"
-weight: 4
+weight: 8
 no_list: true
 ---
 

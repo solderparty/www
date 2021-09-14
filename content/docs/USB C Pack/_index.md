@@ -1,6 +1,6 @@
 ---
 title: "USB Type-C Plug SMT Pack"
-weight: 7
+weight: 9
 no_list: true
 ---
 
