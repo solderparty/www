@@ -57,3 +57,8 @@ url = "/docs/usb-c-cp2102"
 name = "LiPo Battery Charger"
 image = "perspective.jpg"
 url = "/docs/usb-c-lipo"
+
+[[products]]
+name = "RP2040 Stamp"
+image = "perspective.jpg"
+url = "/docs/rp2040-stamp"
