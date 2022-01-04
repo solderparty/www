@@ -4,10 +4,6 @@ weight: 7
 no_list: true
 ---
 
-{{% alert title="Note" %}}
-More info, including pinout, examples, etc. coming soon!
-{{% /alert %}}
-
 The Stamp was created to allow you to use the **Raspberry Pi RP2040** in your designs without having to solder small-pitch QFN chips or worry about lots of external circuitry.
 
 All you need to get you started is a 5V supply or a LiPo battery. The Stamp will take care of the charging and switching the power sources.
