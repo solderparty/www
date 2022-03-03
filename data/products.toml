@@ -62,3 +62,8 @@ url = "/docs/usb-c-lipo"
 name = "RP2040 Stamp"
 image = "perspective.jpg"
 url = "/docs/rp2040-stamp"
+
+[[products]]
+name = "FlexyPin"
+image = "flexypin.jpg"
+url = "/docs/flexypin"
