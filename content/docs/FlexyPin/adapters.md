@@ -7,6 +7,20 @@ You can buy all of these adapters from out [Lectronz Store](https://lectronz.com
 
 KiCad hardware files for all the FlexyPin Adapters shown here are available from [our github](https://github.com/solderparty/flexypin_adapters_hw).
 
+## Raspberry Pi Pico FlexyPin Adapter
+<div class="container">
+
+[![FlexyPins](/docs/flexypin/rpi_pico_adapter.jpg)](/docs/flexypin/rpi_pico_adapter.jpg)
+
+</div>
+
+## ESP-12/ESP-07/ESP8266MOD FlexyPin Adapter
+<div class="container">
+
+[![FlexyPins](/docs/flexypin/esp12_adapter.jpg)](/docs/flexypin/esp12_adapter.jpg)
+
+</div>
+
 ## ESP32-C3-WROOM FlexyPin Adapter
 
 <div class="container">

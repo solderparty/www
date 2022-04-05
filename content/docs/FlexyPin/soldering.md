@@ -3,10 +3,10 @@ title: Soldering
 weight: 2
 ---
 
-A guide and video showing the best ways to solder FlexyPins will be made available soon.
+Below you can find a video guide on soldering FlexyPins. Please excuse the mediocre quality of the footage. We are currently waiting for a new camera to arrive and will remake the video as soon as we receive it. A photo guide will be available at that time as well. 
 
 <div class="container">
 
-[![FlexyPins](/docs/flexypin/esp32_back.jpg)](/docs/flexypin/esp32_back.jpg)
+{{< youtube VZVIUo6SYR0 >}}
 
 </div>
