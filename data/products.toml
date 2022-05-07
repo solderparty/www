@@ -67,3 +67,8 @@ url = "/docs/rp2040-stamp"
 name = "FlexyPin"
 image = "flexypin.jpg"
 url = "/docs/flexypin"
+
+[[products]]
+name = "BBQ20KBD"
+image = "front.jpg"
+url = "/docs/bbq20kbd"
