@@ -68,6 +68,6 @@ The KiCad hardware source files for the board can be found on [Github](https://g
 
 <div class="container">
 
-[![Leaflet](/docs/rp2040-stamp/rp2040_stamp_carrier_round_leaflet.png)](/docs/rp2040-stamp/rp2040_stamp_carrier_round_leaflet.png)
+[![Leaflet](/docs/rp2040-stamp/rp2040_stamp_round_carrier_leaflet.png)](/docs/rp2040-stamp/rp2040_stamp_round_carrier_leaflet.png)
 
 </div>
