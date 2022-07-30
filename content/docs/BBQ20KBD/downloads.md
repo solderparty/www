@@ -35,3 +35,11 @@ The KiCad hardware source files for the board can be found on [Github](https://g
 [![Drawing](/docs/bbq20kbd/drawing_bbq20kbd.png)](/docs/bbq20kbd/drawing_bbq20kbd.png)
 
 </div>
+
+## Leaflet
+
+<div class="container">
+
+[![Drawing](/docs/bbq20kbd/leaflet_bbq20kbd.png)](/docs/bbq20kbd/leaflet_bbq20kbd.png)
+
+</div>
