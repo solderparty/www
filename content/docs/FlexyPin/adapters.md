@@ -14,6 +14,13 @@ KiCad hardware files for all the FlexyPin Adapters shown here are available from
 
 </div>
 
+## Raspberry Pi Pico to Uno FlexyPin Adapter
+<div class="container">
+
+[![FlexyPins](/docs/flexypin/rpi_pico_uno_adapter.jpg)](/docs/flexypin/rpi_pico_uno_adapter.jpg)
+
+</div>
+
 ## ESP-12/ESP-07/ESP8266MOD FlexyPin Adapter
 <div class="container">
 
@@ -42,6 +49,14 @@ KiCad hardware files for all the FlexyPin Adapters shown here are available from
 <div class="container">
 
 [![FlexyPins](/docs/flexypin/esp32_adapter.jpg)](/docs/flexypin/esp32_adapter.jpg)
+
+</div>
+
+## ESP32-WROVER FlexyPin Adapter
+
+<div class="container">
+
+[![FlexyPins](/docs/flexypin/wrover_adapter.jpg)](/docs/flexypin/wrover_adapter.jpg)
 
 </div>
 
