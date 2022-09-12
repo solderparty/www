@@ -72,3 +72,8 @@ url = "/docs/flexypin"
 name = "BBQ20KBD"
 image = "front.jpg"
 url = "/docs/bbq20kbd"
+
+[[products]]
+name = "LiPo Disconnector"
+image = "contents.jpg"
+url = "/docs/lipo-disconnector"
