@@ -3,7 +3,7 @@ title: Adapters
 weight: 1
 ---
 
-You can buy all of these adapters from out [Lectronz Store](https://lectronz.com/stores/solderparty).
+You can buy all of these adapters from our [Lectronz Store](https://lectronz.com/stores/solderparty).
 
 KiCad hardware files for all the FlexyPin Adapters shown here are available from [our github](https://github.com/solderparty/flexypin_adapters_hw).
 
