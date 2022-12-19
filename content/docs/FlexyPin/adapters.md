@@ -80,3 +80,10 @@ KiCad hardware files for all the FlexyPin Adapters shown here are available from
 [![FlexyPins](/docs/flexypin/wio_rp2040_adapter.jpg)](/docs/flexypin/wio_rp2040_adapter.jpg)
 
 </div>
+
+## Xiao/QTPy FlexyPin Adapter
+<div class="container">
+
+[![FlexyPins](/docs/flexypin/xiao_qtpy_adapter.jpg)](/docs/flexypin/xiao_qtpy_adapter.jpg)
+
+</div>
