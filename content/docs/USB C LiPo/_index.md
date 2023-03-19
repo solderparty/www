@@ -9,9 +9,9 @@ This board can be used to charge 3.7V/4.2V lithium polymer (LiPo) and lithium io
 
 The two LEDs show the status of the charging process. While the battery is charging, the "Charge" (orange) LED is on, once the battery is fully charged the "Done" (green) LED lights up. It is normal for either or both LEDs to be on if no battery is connected.
 
-See the Downloads section for the datasheet of the MCP73831 IC and more details about the charging process.
+See the Downloads section for the datasheet of the ME4055-N (MCP73831 for rev 1) IC and more details about the charging process.
 
-By default the battery is charged with 500mA, if you want to change the charge current you can change the R2 resistor. See the schematics or the datasheet for more information.
+By default the battery is charged with 600mA (500mA for rev 1), if you want to change the charge current you can change the R2 resistor. See the schematics or the datasheet for more information.
 
 # Safety warnings
 
