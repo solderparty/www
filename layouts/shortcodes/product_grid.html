@@ -1,7 +1,7 @@
 {{ $products := (index .Site.Data (.Get "data")).products }}
 
 <div class="container" style="width: 80%">
-{{ range $idx, $elem := sort $products "name" }}
+{{ range $idx, $elem := $products }}
 {{ $n_elem := (len $products) }}
 {{ $is_last := (eq $idx (sub $n_elem 1)) }}
 {{ $is_idx_0 := (eq (mod $idx 3) 0) }}
@@ -13,7 +13,7 @@
 
 <div class="col-sm m-1 border product-cell">
 <a href="{{ $elem.url | relURL }}">
-<div class="row"><div class="col-sm text-center"><img src="{{ $elem.url | relURL }}/{{ $elem.image }}"></div></div>
+<div class="row"><div class="col-sm text-center"><img src="{{ $elem.image | relURL }}"></div></div>
 <div class="row"><div class="col-sm text-center">{{ $elem.name }}</div></div>
 </a>
 </div>

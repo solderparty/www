@@ -11,7 +11,9 @@ Make sure you use a 3.7V/4.2V LiPo with the Photo Light.
 
 The board contains four M2.5 mounting holes, which could be used to attach a diffuser or a case to hold the battery.
 
-<div class="container">
+{{% store_links lectronz="https://lectronz.com/products/rp2040-stamp-photo-light-flux-project" %}}
+
+<div class="text-center">
 
 [![Photo Light](/docs/flux/photo-light/photolight.jpg)](/docs/flux/photo-light/photolight.jpg)
 

@@ -107,6 +107,8 @@ footer_about_disable = false
 
 page_meta_links_disabled = true
 
+ul_show = 2
+
 # Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
 # This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.
 # If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
@@ -146,6 +148,12 @@ enable = false
 	desc = "Follow me on Twitter to get private updates!"
 
 [[params.links.user]]
+	name ="Company Bluesky"
+	url = "https://bsky.app/profile/solder.party"
+	icon = "fa-brands fa-bluesky"
+	desc = "Follow us on Bluesky if you prefer!"
+
+[[params.links.user]]
 	name ="Instagram"
 	url = "https://instagram.com/solderparty"
 	icon = "fab fa-instagram"
@@ -171,3 +179,7 @@ enable = false
 
 [Social]
 	twitter = "solderparty"
+
+[[module.imports.mounts]]
+	source = "assets/vendor/Font-Awesome/webfonts"
+	target = "static/webfonts"

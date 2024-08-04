@@ -1,0 +1,24 @@
+[[products]]
+name = "USB Type-C Plug Breakout - USB 2.0"
+image = "/docs/usb-c-breakout/2/perspective.jpg"
+url = "/docs/usb-c-breakout/2"
+
+[[products]]
+name = "USB Type-C Plug Breakout - USB 3.0"
+image = "/docs/usb-c-breakout/3/perspective.jpg"
+url = "/docs/usb-c-breakout/3"
+
+[[products]]
+name = "USB Type-C Plug SMT Pack"
+image = "/docs/usb-c-pack/plugs.jpg"
+url = "/docs/usb-c-pack"
+
+[[products]]
+name = "CP2102 USB to Serial/UART"
+image = "/docs/usb-c-cp2102/perspective.jpg"
+url = "/docs/usb-c-cp2102"
+
+[[products]]
+name = "LiPo Battery Charger"
+image = "/docs/usb-c-lipo/perspective.jpg"
+url = "/docs/usb-c-lipo"

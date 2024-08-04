@@ -12,9 +12,21 @@ This is where you can find the documentation for our products. Select the produc
 
 You can find Flux Projects [below](#flux-projects).
 
-## Choose a product
+## Keyboards
 
-{{% product_grid data=products %}}
+{{% product_grid data=keyboard_products %}}
+
+## RP2xxx Stamp-related
+
+{{% product_grid data=stamp_products %}}
+
+## USB Type-C
+
+{{% product_grid data=usb-c_products %}}
+
+## Others
+
+{{% product_grid data=other_products %}}
 
 ## Flux Projects
 

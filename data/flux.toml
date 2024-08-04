@@ -1,14 +1,14 @@
 [[products]]
 name = "Handheld Console"
-image = "console.jpg"
+image = "/docs/flux/handheld-console/console.jpg"
 url = "/docs/flux/handheld-console"
 
 [[products]]
 name = "MacroPad"
-image = "macropad.jpg"
+image = "/docs/flux/macropad/macropad.jpg"
 url = "/docs/flux/macropad"
 
 [[products]]
 name = "Photo Light"
-image = "photolight.jpg"
+image = "/docs/flux/photo-light/photolight.jpg"
 url = "/docs/flux/photo-light"

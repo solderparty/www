@@ -1,0 +1,8 @@
+{{ $lectronz := .Get "lectronz" }}
+{{ $tindie := .Get "tindie" }}
+
+<div class="text-center">
+{{ if $lectronz }}<a href="{{ $lectronz }}" style="cursor: pointer" target="_blank"><img src="/lectronz.png" alt="Buy it on Lectronz"></a>{{ end }}
+{{ if $tindie }}<a href="{{ $tindie }}" style="cursor: pointer" target="_blank"><img src="/tindie.png" alt="Buy it on Tindie"></a>{{ end }}
+</div>
+<br>

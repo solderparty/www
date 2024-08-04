@@ -1,0 +1,19 @@
+[[products]]
+name = "Serpente R1"
+image = "/docs/serpente/r1/both_boards.jpg"
+url = "/docs/serpente/r1"
+
+[[products]]
+name = "Serpente R2"
+image = "/docs/serpente/r2/three_boards.jpg"
+url = "/docs/serpente/r2"
+
+[[products]]
+name = "OLED PMOD"
+image = "/docs/oled-pmod/oled-pmod.jpg"
+url = "/docs/oled-pmod"
+
+[[products]]
+name = "LiPo Disconnector"
+image = "/docs/lipo-disconnector/contents.jpg"
+url = "/docs/lipo-disconnector"

@@ -4,7 +4,7 @@ weight: 4
 ---
 
 ## Datasheets/Specifications
-- [K1-1502SA-01 three-way switch](https://datasheet.lcsc.com/lcsc/2108131730_Korean-Hroparts-Elec-K1-1502SA-01_C145915.pdf))
+- [K1-1502SA-01 three-way switch](https://datasheet.lcsc.com/lcsc/2108131730_Korean-Hroparts-Elec-K1-1502SA-01_C145915.pdf)
 - [WS2812B-V5/W NeoPixel](https://datasheet.lcsc.com/lcsc/2206131216_Worldsemi-WS2812B-V5-W_C2874885.pdf)
 - [RP2040 Stamp](https://rp2040-stamp.solder.party/)
 
@@ -16,7 +16,7 @@ The KiCad hardware source files for the board can be found on [Github](https://g
 
 ## Schematics
 
-<div class="container">
+<div class="text-center">
 
 [![Schematics](/docs/flux/photo-light/schematics_rp2040_stamp_photolight.png)](/docs/flux/photo-light/schematics_rp2040_stamp_photolight.png)
 
@@ -24,7 +24,7 @@ The KiCad hardware source files for the board can be found on [Github](https://g
 
 ## Drawing
 
-<div class="container">
+<div class="text-center">
 
 [![Drawing](/docs/flux/photo-light/drawing_rp2040_stamp_photolight.png)](/docs/flux/photo-light/drawing_rp2040_stamp_photolight.png)
 

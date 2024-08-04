@@ -15,7 +15,7 @@ The KiCad hardware source files for the board can be found on [Github](https://g
 
 ## Schematics
 
-<div class="container">
+<div class="text-center">
 
 [![Schematics](/docs/flux/handheld-console/schematics_rp2040_stamp_console.png)](/docs/flux/handheld-console/schematics_rp2040_stamp_console.png)
 
@@ -23,7 +23,7 @@ The KiCad hardware source files for the board can be found on [Github](https://g
 
 ## Drawing
 
-<div class="container">
+<div class="text-center">
 
 [![Drawing](/docs/flux/handheld-console/drawing_rp2040_stamp_console.png)](/docs/flux/handheld-console/drawing_rp2040_stamp_console.png)
 

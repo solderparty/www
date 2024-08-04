@@ -1,0 +1,35 @@
+
+[[products]]
+name = "RP2040 Stamp"
+image = "/docs/rp2040-stamp/perspective_oshwa.jpg"
+url = "/docs/rp2040-stamp"
+
+[[products]]
+name = "RP2350 Stamp"
+image = "/docs/rp2350-stamp/perspective.jpg"
+url = "/docs/rp2350-stamp"
+
+[[products]]
+name = "RP2350 Stamp XL"
+image = "/docs/rp2350-stamp-xl/perspective_xl.jpg"
+url = "/docs/rp2350-stamp-xl"
+
+[[products]]
+name = "FlexyPin"
+image = "/docs/flexypin/flexypin.jpg"
+url = "/docs/flexypin"
+
+[[products]]
+name = "RP2040 Stamp Carrier"
+image = "/docs/rp2040-stamp/carrier/carrier.jpg"
+url = "/docs/rp2040-stamp/carrier"
+
+[[products]]
+name = "RP2xxx Stamp Carrier XL"
+image = "/docs/rp2xxx-stamp-carrier-xl/carrier_xl.jpg"
+url = "/docs/rp2xxx-stamp-carrier-xl"
+
+[[products]]
+name = "RP2040 Stamp Round Carrier"
+image = "/docs/rp2040-stamp/round-carrier/round-carrier.jpg"
+url = "/docs/rp2040-stamp/round-carrier"

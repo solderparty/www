@@ -1,10 +1,10 @@
 [[products]]
 name = "USB Type-C Plug Breakout - USB 2.0"
-image = "perspective.jpg"
+image = "/docs/usb-c-breakout/2/perspective.jpg"
 url = "/docs/usb-c-breakout/2"
 
 [[products]]
 name = "USB Type-C Plug Breakout - USB 3.0"
-image = "perspective.jpg"
+image = "/docs/usb-c-breakout/3/perspective.jpg"
 url = "/docs/usb-c-breakout/3"
 
