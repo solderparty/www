@@ -1,0 +1,9 @@
+[[products]]
+name = "RP2350 Stamp"
+image = "/docs/rp2350-stamp/perspective.jpg"
+url = "/docs/rp2350-stamp"
+
+[[products]]
+name = "RP2350 Stamp XL"
+image = "/docs/rp2350-stamp-xl/perspective_xl.jpg"
+url = "/docs/rp2350-stamp-xl"

@@ -33,7 +33,7 @@ As mentioned above, the Carrier follows the Mega/Due/Uno shield pinout, making i
 
 The CircuitPython firmware for the Stamps comes with a built-in board file for the Carrier, you can access it using `import stamp_carrier_board_xl as board`. After that, you can access all the Carrier pins and interfaces like you would with any other CPY board.
 
-{{% store_links lectronz="https://lectronz.com/products/rp2xxx-stamp-carrier-xl" tindie="https://www.tindie.com/products/arturo182/rp2xxx-stamp-carrier-xl/" %}}
+{{% store_links lectronz="https://lectronz.com/products/rp2xxx-stamp-carrier-xl" %}}
 
 <div class="text-center">
 

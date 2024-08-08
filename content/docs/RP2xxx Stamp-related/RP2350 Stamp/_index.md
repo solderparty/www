@@ -5,7 +5,7 @@ no_list: true
 url: "/docs/rp2350-stamp"
 ---
 
-The Stamp was created to allow you to use the **Raspberry Pi RP2350** in your designs without having to solder small-pitch QFN chips or worry about lots of external circuitry.
+The Stamp was created to allow you to use the **Raspberry Pi RP2350A** in your designs without having to solder small-pitch QFN chips or worry about lots of external circuitry.
 
 The RP2350 Stamp is pad-compatible with our previous RP2040 Stamp.
 
@@ -24,7 +24,7 @@ At only **1 by 1 inch**, the Stamp packs a lot of features:
 * Bootsel Button
 * 12MHz crystal
 
-and of course, everything that comes with the Raspberry Pi RP2040 itself:
+and of course, everything that comes with the Raspberry Pi RP2350 itself:
 * Dual core ARM Cortex-M33 or Hazard3 @ 150MHz
 * 520kB SRAM
 * 2 UARTs
@@ -41,7 +41,11 @@ In addition to the Stamps we also offer a few reference designs, see the Carrier
 
 The CircuitPython firmware for the Stamp comes with a built-in board files for the Carriers, for example you can access the RP2040 Stamp Carrier pins and interfaces by using `import stamp_carrier_board as board`. See [here](https://github.com/adafruit/circuitpython/tree/main/ports/raspberrypi/boards/solderparty_rp2040_stamp) for all the available Carrier board files.
 
-{{% store_links lectronz="https://lectronz.com/products/rp2350-stamp" tindie="https://www.tindie.com/products/arturo182/rp2350-stamp/" %}}
+{{% alert title="Note" color="warning" %}}
+If you're planning to use CircuitPython on the Stamps, it is highly recommended to update it before proceeding. The version shipped with the Stamps is a very early and unfinished port.
+{{% /alert %}}
+
+{{% store_links lectronz="https://lectronz.com/products/rp2350-stamp" %}}
 
 <div class="text-center">
 
