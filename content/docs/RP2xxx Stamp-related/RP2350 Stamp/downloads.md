@@ -39,3 +39,7 @@ The KiCad hardware source files will be released once the Stamp is launched.
 [![Leaflet](/docs/rp2350-stamp/leaflet_rp2350_stamp.png)](/docs/rp2350-stamp/leaflet_rp2350_stamp.png)
 
 </div>
+
+{{% alert title="Note" color="warning" %}}
+Note: The leaflet sent with the Stamps has the description for 3.3V and 5V swapped, the pin positions are correct, only the descriptions are swapped. The above image is fixed and doesn't contain that error.
+{{% /alert %}}
