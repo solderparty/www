@@ -8,7 +8,7 @@ url: "/docs/rp2xxx-stamp-carrier-xl"
 
 The RP2xxx Stamp Carrier XL, as the (somewhat long) name suggests, supports all the RP2-based Stamp boards. The Mega/Due form-factor ensures compatbility with many shields, including Uno ones. The wide range of connectors on the Carrier makes it a fully-fledged RP2xxx dev board.
 
-The Carrier comes with a combo 3-in-1 SMD/TH/FlexyPin Stamp footprint, you can solder the Stamp directly to the Carrier, use 2mm pin headers + sockets to be able to plug it in and out, or use [FlexyPins](/docs/flexypin) to pop the Stamp in and out of the Carrier would soldering the Stamp. This way the Carrier also acts as a great Stamp flashing and testing jig. Check out the [Assembly Options](/docs/rp2xxx-stamp-carrier-xl/assembly-options) page for more details.
+The Carrier comes with a combo 3-in-1 SMD/TH/FlexyPin Stamp footprint, you can solder the Stamp directly to the Carrier, use 2mm pin headers + sockets to be able to plug it in and out, or use [FlexyPins](/docs/flexypin) to pop the Stamp in and out of the Carrier would soldering the Stamp. This way the Carrier also acts as a great Stamp flashing and testing jig. Check out the [Assembly Options](/docs/rp2xxx-stamp-carrier-xl/assembly_options) page for more details.
 
 The board can be powered from the LiPo, over USB, or with a DC jack.
 

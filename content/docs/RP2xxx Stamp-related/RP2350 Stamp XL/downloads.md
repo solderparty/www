@@ -13,8 +13,7 @@ weight: 4
 The CircuitPython board files can be found on Adafruit's [Github](https://github.com/adafruit/circuitpython/tree/main/ports/raspberrypi/boards/solderparty_rp2350_stamp_xl).
 
 ## Hardware Files
-The KiCad hardware source files will be released once the Stamp is launched.
-<!--- The KiCad hardware source files for the board can be found on [Github](https://github.com/solderparty/rp2350_stamp_xl_hw/). --->
+The KiCad hardware source files for the board can be found on [Github](https://github.com/solderparty/rp2350_stamp_xl_hw/).
 
 ## Schematics
 
