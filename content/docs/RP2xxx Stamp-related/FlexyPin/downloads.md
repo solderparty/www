@@ -10,7 +10,7 @@ You can find a collection of KiCad footprints for various FlexyPin pitches as we
 
 ## 3D Model
 
-You can find a .step file of the FlexyPin on [our github](https://github.com/solderparty/flexypin/3d).
+You can find a .step file of the FlexyPin on [our github](https://github.com/solderparty/flexypin/tree/main/3d).
 
 ## Hardware Files
 
