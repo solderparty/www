@@ -135,23 +135,29 @@ enable = false
 #        desc = "Discussion and help from your fellow users"
 
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
-[[params.links.user]]
-	name ="Company Twitter"
-	url = "https://twitter.com/solderparty"
-	icon = "fab fa-twitter"
-	desc = "Follow us on Twitter to get company news!"
+#[[params.links.user]]
+#	name ="Company Twitter"
+#	url = "https://twitter.com/solderparty"
+#	icon = "fab fa-twitter"
+#	desc = "Follow us on Twitter to get company news!"
 
-[[params.links.user]]
-	name ="Artur's Twitter"
-	url = "https://twitter.com/arturo182"
-	icon = "fab fa-twitter"
-	desc = "Follow me on Twitter to get private updates!"
+#[[params.links.user]]
+#	name ="Artur's Twitter"
+#	url = "https://twitter.com/arturo182"
+#	icon = "fab fa-twitter"
+#	desc = "Follow me on Twitter to get private updates!"
 
 [[params.links.user]]
 	name ="Company Bluesky"
 	url = "https://bsky.app/profile/solder.party"
 	icon = "fa-brands fa-bluesky"
-	desc = "Follow us on Bluesky if you prefer!"
+	desc = "Follow us on Bluesky to get company news!"
+
+[[params.links.user]]
+	name ="Artur's Bluesky"
+	url = "https://bsky.app/profile/arturo182.bsky.social"
+	icon = "fa-brands fa-bluesky"
+	desc = "Follow us on Bluesky to get private updates!"
 
 [[params.links.user]]
 	name ="Instagram"
