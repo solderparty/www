@@ -25,6 +25,11 @@ image = "/docs/rp2040-stamp/carrier/carrier.jpg"
 url = "/docs/rp2040-stamp/carrier"
 
 [[products]]
+name = "RP2xxx Stamp Carrier Basic"
+image = "/docs/rp2xxx-stamp-carrier-basic/carrier_basic.jpg"
+url = "/docs/rp2xxx-stamp-carrier-basic"
+
+[[products]]
 name = "RP2xxx Stamp Carrier XL"
 image = "/docs/rp2xxx-stamp-carrier-xl/carrier_xl.jpg"
 url = "/docs/rp2xxx-stamp-carrier-xl"
