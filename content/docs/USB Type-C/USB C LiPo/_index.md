@@ -24,7 +24,7 @@ By default the battery is charged with 600mA (500mA for rev 1), if you want to c
 
 **It is normal for the charger to get warm while charging (within reason), if you feel it getting too warm, you can lower the charge current (see above).**
 
-{{% store_links tindie="https://www.tindie.com/products/arturo182/37v42v-lipo-charger-with-usb-type-c-plug/" %}}
+{{% store_links lectronz="https://lectronz.com/products/cp2102-usb-to-serialuart-with-usb-type-c-plug" tindie="https://www.tindie.com/products/arturo182/37v42v-lipo-charger-with-usb-type-c-plug/" %}}
 
 <div class="text-center">
 

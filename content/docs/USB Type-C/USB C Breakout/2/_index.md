@@ -12,7 +12,7 @@ As per the USB Type-C specification, the plug has only one pair of D+/D- pins; i
 
 For more details about USB Type-C, we recommend [this application note](http://ww1.microchip.com/downloads/en/appnotes/00001953a.pdf) or the [USB Type-C Specification](https://www.usb.org/sites/default/files/USB%20Type-C%20Spec%20R2.0%20-%20August%202019.pdf).
 
-{{% store_links tindie="https://www.tindie.com/products/arturo182/usb-type-c-plug-breakout-usb-20-only/" %}}
+{{% store_links lectronz="https://lectronz.com/products/usb-type-c-plug-breakout-usb-20-only" tindie="https://www.tindie.com/products/arturo182/usb-type-c-plug-breakout-usb-20-only/" %}}
 
 <div class="text-center">
 

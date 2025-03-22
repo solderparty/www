@@ -14,7 +14,7 @@ The board also features RX and TX LEDs to help you debug issues, they will light
 
 For more details see the datasheet in the Downloads section or the [Serial Communications Guide](https://www.silabs.com/documents/public/application-notes/an197.pdf) from Silicon Labs.
 
-{{% store_links tindie="https://www.tindie.com/products/arturo182/cp2102-usb-to-serialuart-with-usb-type-c-plug/" %}}
+{{% store_links lectronz="https://lectronz.com/products/cp2102-usb-to-serialuart-with-usb-type-c-plug" tindie="https://www.tindie.com/products/arturo182/cp2102-usb-to-serialuart-with-usb-type-c-plug/" %}}
 
 <div class="text-center">
 
