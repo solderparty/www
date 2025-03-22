@@ -22,6 +22,13 @@ KiCad hardware files for all the FlexyPin Adapters shown here are available from
 
 </div>
 
+## Raspberry Pi RM2 FlexyPin Adapter
+<div class="text-center">
+
+[![FlexyPins](/docs/flexypin/rpi_rm2_adapter.jpg)](/docs/flexypin/rpi_rm2_adapter.jpg)
+
+</div>
+
 ## ESP-12/ESP-07/ESP8266MOD FlexyPin Adapter
 <div class="text-center">
 
