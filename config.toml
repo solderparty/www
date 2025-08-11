@@ -160,6 +160,12 @@ enable = false
 	desc = "Follow us on Bluesky to get private updates!"
 
 [[params.links.user]]
+	name = "Solder Party Mastodon"
+	url = "https://mastodon.social/@solder.party@bsky.brid.gy"
+	icon = "fab fa-mastodon"
+	desc = "Follow us on Mastodon to get company news!"
+
+[[params.links.user]]
 	name ="Instagram"
 	url = "https://instagram.com/solderparty"
 	icon = "fab fa-instagram"
