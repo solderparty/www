@@ -1,5 +1,5 @@
 ---
-title: "Keyboards"
+title: "BB-Based Keyboards"
 weight: 2
 no_list: true
 ---

@@ -12,7 +12,7 @@ This is where you can find the documentation for our products. Select the produc
 
 You can find Flux Projects [below](#flux-projects).
 
-## Keyboards
+## BB-Based Keyboards
 
 {{% product_grid data=keyboard_products %}}
 
