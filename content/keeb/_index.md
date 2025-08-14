@@ -30,7 +30,7 @@ layout: docs
             <a href="/keeb/keebs_old_dome.jpg" data-toggle="lightbox" data-gallery="keeb"><img src="/keeb/keebs_old_dome_small.jpg" class="img-fluid"></a>
         </div>
         <div class="col-md-9 col-12 h5">
-            <p>The keyboard utilizes a sandwich-style design, requiring a specific footprint to be placed on a PCB so that the adhesive dome sheet can be applied on top of the footprint.The silicone  keypad then goes on top of the dome sheet and requires a top case (another PCB, a 3D-printed/milled/etc. cover) that will keep the keypad in place. The required spacing between the two surfaces is 1.5mm.</p>
+            <p>The keyboard utilizes a sandwich-style design, requiring a specific footprint to be placed on a PCB so that the adhesive dome sheet can be applied on top of the footprint.The silicone  keypad then goes on top of the dome sheet and requires a top case (another PCB, a 3D-printed/milled/etc. cover) that will keep the keypad in place. The required spacing between the two surfaces is 2.0mm.</p>
         </div>
     </div>
     <div class="row mb-3">
