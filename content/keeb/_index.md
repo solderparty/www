@@ -1,6 +1,8 @@
 ---
-title: "Keeb"
-layout: docs
+title: KeebDeck
+description: The KeebDeck Keyboard is a compact (85x48mm) 69-key alphanumeric silicone keypad with an orthogonal layout based on standard PC keyboards. It has all the keys a hacker would expect and a few extra ones that can be used as macros. The keypad sits on a snap dome sheet, giving it a tactile feel that's comfortable even for extended thumb-typing sessions. The keypad can also optionally be backlit, perfect for dimly lit rooms.
+images:
+ - /keeb/keeb_background.png
 ---
 
 {{< blocks/cover title="KeebDeck" image_anchor="bottom" height="min" >}}

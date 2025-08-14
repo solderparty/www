@@ -23,8 +23,7 @@
     {{ .Site.Title -}}
   {{ end -}}
 </title>
-{{ $desc := .Page.Description | default (.Page.Content | safeHTML | truncate 150) -}}
-<meta name="description" content="{{ $desc }}">
+<meta name="description" content="{{ template "partials/page-description.html" . }}">
 {{ template "_internal/opengraph.html" . -}}
 {{ template "_internal/schema.html" . -}}
 {{ template "_internal/twitter_cards.html" . -}}
@@ -44,7 +43,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script>
 
 {{ if .Site.Params.prism_syntax_highlighting -}}
-<link rel="stylesheet" href="{{ "/css/prism.css" | relURL }}"/>
+<link rel="stylesheet" href="{{ "css/prism.css" | relURL }}"/>
 {{ end -}}
 
 {{ partial "hooks/head-end.html" . -}}

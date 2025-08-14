@@ -1,6 +1,7 @@
 ---
 title: "Welcome to the Solder Party Docs"
 linkTitle: "Documentation"
+description: "This is where you can find the documentation for our products."
 weight: 20
 no_list: true
 menu:
@@ -8,7 +9,7 @@ menu:
     weight: 20
 ---
 
-This is where you can find the documentation for our products. Select the product from the grid below or the list to the left.
+Select the product from the grid below or the list to the left.
 
 You can find Flux Projects [below](#flux-projects).
 
