@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+  <meta name="description" content="{{ .Description }}">
+
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/schema.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+
+  <style type="text/css">
+    body {
+      font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #000000;
+      color: #ffffff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 0;
+      min-height: 100vh;
+      background-image: url('/links_bg.png?1212313');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+
+    main {
+      width: 90%;
+      max-width: 420px;
+      text-align: center;
+      padding: 2rem;
+      position: relative;
+    }
+
+    #share {
+      position: absolute;
+      right: 2rem;
+      width: 2.5rem;
+      height: 2.5rem;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.5);
+      border: none;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: background 0.2s ease, transform 0.1s ease;
+      color: #000000;
+      font-size: 1.2rem;
+    }
+
+    #share:hover {
+      background: rgba(255, 255, 255, 0.7);
+      transform: scale(1.05);
+    }
+
+    #share:active {
+      transform: scale(0.95);
+    }
+
+    #logo {
+      width: 96px;
+      height: 96px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 1rem;
+    }
+
+    h1 {
+      font-size: 1.6rem;
+      font-weight: 700;
+      margin-top: 0;
+      margin-bottom: 0.5rem;
+    }
+
+    h2 {
+      opacity: 0.8;
+      font-size: 0.95rem;
+      margin-bottom: 2rem;
+      font-weight: normal;
+    }
+
+    .link {
+      display: flex;
+      align-items: center;
+      border-radius: 10px;
+      padding: 0.9rem 1.2rem;
+      margin: 0.75rem 0;
+      text-decoration: none;
+      transition: transform 0.1s ease, box-shadow 0.1s ease;
+    }
+
+    .link:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 3px 8px rgba(255, 255, 255, 0.2);
+    }
+
+    .link > .icon {
+      flex-shrink: 0;
+      width: 2.6rem;
+      height: 2.6rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 1rem;
+      font-size: 2rem;
+      color: #000000;
+    }
+
+    .link > .icon img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+
+    .link > .text {
+      flex: 1;
+      text-align: left;
+      font-weight: 600;
+      font-size: 1rem;
+    }
+
+    .link > .text > div {
+      font-weight: normal;
+      font-size: 0.75rem;
+      opacity: 0.8;
+      margin-top: 0.25rem;
+    }
+
+    .socials {
+      display: flex;
+      justify-content: center;
+      gap: 1.2rem;
+      margin-top: 2.2rem;
+    }
+
+    .socials a {
+      color: #ffffff;
+      font-size: 1.8rem;
+      transition: color 0.2s ease, transform 0.1s ease;
+    }
+
+    .socials a:hover {
+      transform: scale(1.1);
+    }
+
+    footer {
+      margin-top: 2.5rem;
+      font-size: 0.9rem;
+      opacity: 0.8;
+    }
+  </style>
+  <script type="text/javascript">
+    function shareLink() {
+      if (navigator.share) {
+        navigator.share({
+          title: document.title,
+          text: 'Solder Party Links',
+          url: window.location.href
+        }).catch(err => {
+          console.log('Share cancelled or failed:', err);
+        });
+      } else {
+        // Fallback: copy to clipboard
+        navigator.clipboard.writeText(window.location.href).then(() => {
+          alert('Link copied to clipboard!');
+        }).catch(() => {
+          alert('Sharing not supported on this browser!');
+        });
+      }
+    }
+  </script>
+</head>
+<body>
+  <main>
+    <button id="share" onclick="shareLink()" aria-label="Share this page" title="Share this page">
+      <i class="fa-solid fa-share-nodes"></i>
+    </button>
+
+    <img id="logo" src="/square-512.png" alt="Solder Party Logo" title="Solder Party Logo" >
+
+    <h1>Solder Party AB</h1>
+    <h2>We design easy to use products that help you develop your projects.</h2>
+
+    {{ range site.Data.links.links }}
+      <a class="link" href="{{ .url }}" target="_blank" rel="noopener"
+         style="
+            color: {{ .text_color }};
+            background: {{ .bg_color }};
+         ">
+        <div class="icon" style="color: {{ .text_color }};">
+          {{ if .image }}
+            <img src="{{ .image }}" alt="{{ .name }}" title="{{ .name }}">
+          {{ else if .svg }}
+            {{ readFile .svg | safeHTML }}
+          {{ else if .icon }}
+            <i class="{{ .icon }}"></i>
+          {{ end }}
+        </div>
+        <div class="text">
+          {{ .name }}
+          <div style="color: {{ .text_color }}">{{ .description }}</div>
+        </div>
+      </a>
+    {{ end }}
+
+    <div class="socials">
+      {{ range site.Data.links.socials }}
+        <a href="{{ .url }}" title="{{ .title }}" target="_blank" rel="noopener">
+          <i class="{{ .icon }}"></i>
+        </a>
+      {{ end }}
+    </div>
+
+    <footer>© {{ now.Format "2006" }} Solder Party AB</footer>
+  </main>
+</body>
+</html>

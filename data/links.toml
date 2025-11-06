@@ -1,0 +1,77 @@
+[[links]]
+name = "Lectronz Store"
+url = "https://lectronz.com/stores/solderparty"
+svg = "/static/lectronz-logo.svg"
+description = "Find all our products for sale here"
+bg_color = "#00cbfc"
+text_color = "#000000"
+
+[[links]]
+name = "Tindie Store"
+url = "https://www.tindie.com/stores/arturo182"
+svg = "/static/tindie-logo.svg"
+description = "Our secondary store (older products only)"
+bg_color = "#17aeb9"
+text_color = "#ffffff"
+
+[[links]]
+name = "Website"
+url = "https://www.solder.party"
+svg = "/static/sp-logo.svg"
+description = "Our website"
+bg_color = "#6a1b9a"
+text_color = "#ffffff"
+
+[[links]]
+name = "Newsletter"
+url = "https://solderparty.substack.com/subscribe"
+icon = "fa-solid fa-newspaper"
+description = "The best way to stay up to date"
+bg_color = "#f7652e"
+text_color = "#ffffff"
+
+[[links]]
+name = "Documentation"
+url = "https://docs.solder.party"
+icon = "fa-solid fa-book-open"
+description = "Docs for all our products"
+bg_color = "#ffffff"
+text_color = "#000000"
+
+[[links]]
+name = "GitHub"
+url = "https://github.com/solderparty"
+icon = "fa-brands fa-github"
+description = "Sources for our software and hardware"
+bg_color = "#333333"
+text_color = "#ffffff"
+
+[[links]]
+name = "Discord"
+url = "https://discord.com/invite/myRFTvX"
+icon = "fa-brands fa-discord"
+description = "Talk to other members of the community"
+bg_color = "#5865F2"
+text_color = "#ffffff"
+
+
+# Socials Row
+[[socials]]
+icon = "fa-brands fa-bluesky"
+url = "https://bsky.app/profile/solder.party"
+title = "Bluesky"
+
+[[socials]]
+icon = "fa-brands fa-mastodon"
+url = "https://mastodon.social/@solder.party@bsky.brid.gy"
+title = "Mastodon"
+
+[[socials]]
+icon = "fa-brands fa-instagram"
+url = "https://instagram.com/solderparty"
+title = "Instagram"
+
+[[socials]]
+icon = "fa-brands fa-linkedin"
+url = "https://linkedin.com/company/solderparty"
+title = "LinkedIn"
