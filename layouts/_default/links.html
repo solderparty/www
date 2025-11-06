@@ -22,7 +22,7 @@
       align-items: center;
       margin: 0;
       min-height: 100vh;
-      background-image: url('/links_bg.png?1212313');
+      background-image: url('{{ .Site.BaseURL }}/links_bg.png');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -182,7 +182,7 @@
       <i class="fa-solid fa-share-nodes"></i>
     </button>
 
-    <img id="logo" src="/square-512.png" alt="Solder Party Logo" title="Solder Party Logo" >
+    <img id="logo" src="{{ .Site.BaseURL }}/square-512.png" alt="Solder Party Logo" title="Solder Party Logo" >
 
     <h1>Solder Party AB</h1>
     <h2>We design easy to use products that help you develop your projects.</h2>
