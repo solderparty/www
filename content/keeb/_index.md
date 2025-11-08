@@ -13,7 +13,7 @@ images:
 <div class="container h5">
     <div class="row mb-2">
         <div class="col-md-3 col-12 d-flex align-items-center justify-content-center mb-3">
-            <a href="/keeb/keeb_render.png" data-toggle="lightbox" data-gallery="keeb"><img src="/keeb/keeb_render.png" class="img-fluid"></a>
+            <a href="/docs/keebdeck/keyboard/front.jpg" data-toggle="lightbox" data-gallery="keeb"><img src="/docs/keebdeck/keyboard/front.jpg" class="img-fluid"></a>
         </div>
         <div class="col-md-9 col-12 h5">
             <p>You may be familiar with our previous BB-based keyboard products, maybe you even own one. As it became harder and harder to source the parts for them, we decided to do something about it and went on to create a fully-custom silicone keypad, designed with makers and hackers in mind. Meet the <strong>KeebDeck Keyboard</strong>!</p>
@@ -21,7 +21,7 @@ images:
     </div>
     <div class="row mb-3">
         <div class="col-md-3 col-12 d-flex align-items-center justify-content-center mb-3">
-            <a href="/keeb/keeb_render_back.png" data-toggle="lightbox" data-gallery="keeb"><img src="/keeb/keeb_render_back.png" class="img-fluid"></a>
+            <a href="/docs/keebdeck/keyboard/keypad.jpg" data-toggle="lightbox" data-gallery="keeb"><img src="/docs/keebdeck/keyboard/keypad.jpg" class="img-fluid"></a>
         </div>
         <div class="col-md-9 col-12 h5">
             <p>The KeebDeck Keyboard is a compact (85x48mm) 69-key alphanumeric silicone keypad with an orthogonal layout based on standard PC keyboards. It has all the keys a hacker would expect and a few extra ones that can be used as macros. The keypad sits on a snap dome sheet, giving it a tactile feel that's comfortable even for extended thumb-typing sessions. The keypad can also optionally be backlit, perfect for dimly lit rooms.</p>
@@ -29,7 +29,7 @@ images:
     </div>
     <div class="row mb-3">
         <div class="col-md-3 col-12 d-flex align-items-center justify-content-center mb-3">
-            <a href="/keeb/keebs_old_dome.jpg" data-toggle="lightbox" data-gallery="keeb"><img src="/keeb/keebs_old_dome_small.jpg" class="img-fluid"></a>
+            <a href="/docs/keebdeck/keyboard/render.jpg" data-toggle="lightbox" data-gallery="keeb"><img src="/docs/keebdeck/keyboard/render.jpg" class="img-fluid"></a>
         </div>
         <div class="col-md-9 col-12 h5">
             <p>The keyboard utilizes a sandwich-style design, requiring a specific footprint to be placed on a PCB so that the adhesive dome sheet can be applied on top of the footprint.The silicone  keypad then goes on top of the dome sheet and requires a top case (another PCB, a 3D-printed/milled/etc. cover) that will keep the keypad in place. The required spacing between the two surfaces is 2.0mm.</p>
@@ -37,7 +37,7 @@ images:
     </div>
     <div class="row mb-3">
         <div class="col-md-3 col-12 d-flex align-items-center justify-content-center mb-3">
-            <a href="/keeb/dome_sheet_photo.jpg" data-toggle="lightbox" data-gallery="keeb"><img src="/keeb/dome_sheet_photo.jpg" class="img-fluid"></a>
+            <a href="/docs/keebdeck/keyboard/dome_sheet.jpg" data-toggle="lightbox" data-gallery="keeb"><img src="/docs/keebdeck/keyboard/dome_sheet.jpg" class="img-fluid"></a>
         </div>
         <div class="col-md-9 col-12 h5">
             <p>Regardless if it's in one of our products, a conference badge, a cyberdeck, or your custom PCB, the KeebDeck keyboard is pleasant to type on and easy to work with. In the near future, in addition to releasing products using the Keyboard, we will also <strong>open source</strong> drawings, 3D models, footprints, and symbols for popular PCB design programs.</p>
@@ -116,9 +116,11 @@ images:
     </div>
     <div class="row mb-3">
         <div class="col-md-3 col-12 d-flex justify-content-center mb-3">
-            <a href="/keeb/keebdeck_basic_photo.jpg" data-toggle="lightbox" data-gallery="basic"><img src="/keeb/keebdeck_basic_photo.jpg" class="img-fluid"></a>
-            <div data-toggle="lightbox" data-gallery="basic" data-remote="/keeb/keebdeck_basic_pcbs.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="basic" data-remote="/keeb/keebdeck_basic_sandwich.jpg"></div>
+            <a href="/docs/keebdeck/basic/angled.jpg" data-toggle="lightbox" data-gallery="basic"><img src="/docs/keebdeck/basic/angled.jpg" class="img-fluid"></a>
+            <div data-toggle="lightbox" data-gallery="basic" data-remote="/docs/keebdeck/basic/front.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="basic" data-remote="/docs/keebdeck/basic/back.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="basic" data-remote="/docs/keebdeck/basic/top.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="basic" data-remote="/docs/keebdeck/basic/inside.jpg"></div>
         </div>
         <div class="col-md-9 col-12 h5">
             <h4 id="keebdeck-basic"><strong>KeebDeck Basic</strong></h4>

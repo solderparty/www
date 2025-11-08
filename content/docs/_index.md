@@ -13,13 +13,17 @@ Select the product from the grid below or the list to the left.
 
 You can find Flux Projects [below](#flux-projects).
 
-## BB-Based Keyboards
+## KeebDeck Devices
 
-{{% product_grid data=keyboard_products %}}
+{{% product_grid data=keebdeck_products %}}
 
 ## RP2xxx Stamp-related
 
 {{% product_grid data=stamp_products %}}
+
+## BB-Based Keyboards
+
+{{% product_grid data=keyboard_products %}}
 
 ## USB Type-C
 

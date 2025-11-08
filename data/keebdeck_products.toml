@@ -1,0 +1,41 @@
+[[products]]
+name = "KeebDeck Keyboard"
+image = "/docs/keebdeck/keyboard/front.jpg"
+url = "/docs/keebdeck/keyboard"
+weight = 1
+
+[[products]]
+name = "KeebDeck Basic"
+image = "/docs/keebdeck/basic/front.jpg"
+url = "/docs/keebdeck/basic"
+weight = 2
+
+#[[products]]
+#name = "KeebDeck Mini"
+#image = "/docs/keebdeck/mini/front.jpg"
+#url = "/docs/keebdeck/mini"
+#weight = 3
+
+#[[products]]
+#name = "KeebDeck Pico"
+#image = "/docs/keebdeck/pico/front.jpg"
+#url = "/docs/keebdeck/pico"
+#weight = 4
+
+#[[products]]
+#name = "KeebDeck FeatherWing Mono"
+#image = "/docs/keebdeck/featherwing-mono/front.jpg"
+#url = "/docs/keebdeck/featherwing-mono"
+#weight = 5
+
+#[[products]]
+#name = "KeebDeck FeatherWing Color"
+#image = "/docs/keebdeck/featherwing-color/front.jpg"
+#url = "/docs/keebdeck/featherwing-color"
+#weight = 6
+
+#[[products]]
+#name = "KeebDeck SP"
+#image = "/docs/keebdeck/sp/front.jpg"
+#url = "/docs/keebdeck/sp"
+#weight = 7
