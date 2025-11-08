@@ -50,6 +50,6 @@ The board also features unpopulated footprints for LED backlight circuitry. You 
 
 <div class="text-center">
 
-[![KeebDeck Basic Exploded](/docs/keebdeck/keyboard/render.png)](/docs/keebdeck/keyboard/render.png)
+[![KeebDeck Basic Exploded](/docs/keebdeck/keyboard/render.jpg)](/docs/keebdeck/keyboard/render.jpg)
 
 </div>
